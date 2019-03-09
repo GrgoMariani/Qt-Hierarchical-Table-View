@@ -1,18 +1,16 @@
 # Qt Hierarchical Header View
 ##
-###
 - - - -
-- - - -
-#### Copyright
-This code is based on and modified from :
-[HierarchicalHeaderView]( https://www.linux-apps.com/content/show.php/HierarchicalHeaderView?content=103154 )
+## Copyright
+This code is based on and modified from [HierarchicalHeaderView]( https://www.linux-apps.com/content/show.php/HierarchicalHeaderView?content=103154 ) .
  
 Please check the licenses in the source code.
+
 Copyright (c) 2009, Krasnoshchekov Petr
 - - - -
 - - - -
 
-#### Brief
+### Brief
 
 You can check the description on the above link. HierarchicalHeaderView is actually a QTableView that implements tree-like grouping of elements.
 
@@ -26,7 +24,7 @@ This code is mostly the same as original but offers a few extra things such as:
 
 The original code actually fares quite well given it is almost 10 years old. Good job Petr!
 
-#### Usage
+### Usage
 
 ___main.cpp___ should cover most of the usage:
 
@@ -46,5 +44,5 @@ root->AppendNewItem("second");
 - - - -
 - - - -
 
-#### One more thing...
+### One more thing...
 Have you found some time today to think about global warming ???
